@@ -1,4 +1,4 @@
-                      🎀 Danyella Marques 🎀
+                        🎀 Danyella Marques 🎀
 
     Analista de Sistemas ERP|SQL|HTML|CSS|Desenvolvimento Full Stack.
 
