@@ -5,7 +5,7 @@
 💡 Resumo
 
 Sou Analista de Sistemas com experiência em ERP, atuando em suporte técnico, análise de requisitos, testes e treinamento de usuários.  
-Tenho facilidade em compreender processos de negócio e traduzir necessidades em soluções tecnológicas.  
+Facilidade em compreender processos de negócio e traduzir necessidades em soluções tecnológicas.  
 Atualmente, estou expandindo meus conhecimentos em desenvolvimento Front end com o objetivo de me especializar cada vez mais na área de tecnologia.  
 
 🌟 Sobre mim
